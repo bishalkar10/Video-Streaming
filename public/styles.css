@@ -9,6 +9,7 @@ body {
   align-items: center;
   min-height: 100vh;
   background-color: #f0f0f0; /* Light gray background */
+  padding: 1rem;
 }
 
 h1 {
@@ -17,6 +18,7 @@ h1 {
 }
 
 video {
+  width: 100%;
   max-width: 500px;
   border: 1px solid #ccc; /* Light border around the video */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
